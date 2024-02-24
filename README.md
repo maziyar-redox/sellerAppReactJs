@@ -1,8 +1,53 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Seller App Dashboard with React + Vite
 
-Currently, two official plugins are available:
+this is a SPA project that i created for fun and benefit. for using it just simply run command below.
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the project
+
+```bash
+  git clone https://github.com/maziyar-redox/sellerAppReactJs
+```
+
+Go to the project directory
+
+```bash
+  cd sellerAppReactJs
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the devServer
+
+```bash
+  npm run dev
+```
+
+for build project
+
+```bash
+   npm run build
+```
+
+for preview project
+
+```bash
+   npm run preview
+```
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/maziyar-redox/sellerAppReactJs/main/img/Capture.PNG)
+## Authors
+
+- [@maziyar-redox](https://github.com/maziyar-redox)
+## Tech Stack
+
+**Client:** React, TailwindCSS, Typescript
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
