@@ -47,7 +47,7 @@ for preview project
 - [@maziyar-redox](https://github.com/maziyar-redox)
 ## Tech Stack
 
-**Client:** React, TailwindCSS, Typescript
+**Client:** React, TailwindCSS, JavaScript
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
